@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GitHub 今日 Star 增长榜 TOP 10</title>
+  <meta name="description" content="每日自动更新的 GitHub Trending 项目榜单" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- 背景装饰 -->
+  <div class="bg-glow"></div>
+
+  <div class="container">
+    <!-- 头部 -->
+    <header class="header">
+      <div class="header-content">
+        <h1 class="title">
+          <span class="title-icon">🔥</span>
+          GitHub 今日 Star 增长榜
+        </h1>
+        <p class="subtitle">每日自动追踪 GitHub 最热门开源项目</p>
+      </div>
+      <div class="header-meta">
+        <span class="update-time" id="updateTime">加载中...</span>
+        <a href="https://github.com" target="_blank" class="github-link" title="GitHub">
+          <svg viewBox="0 0 16 16" width="20" height="20" fill="currentColor">
+            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+          </svg>
+        </a>
+      </div>
+    </header>
+
+    <!-- 控制栏 -->
+    <div class="controls">
+      <div class="control-group">
+        <label for="langFilter">语言筛选</label>
+        <select id="langFilter" class="select-input">
+          <option value="">全部语言</option>
+        </select>
+      </div>
+      <div class="control-group">
+        <label for="datePicker">历史日期</label>
+        <select id="datePicker" class="select-input">
+          <option value="latest">最新数据</option>
+        </select>
+      </div>
+      <button id="refreshBtn" class="btn-refresh" title="刷新数据">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+          <polyline points="23 4 23 10 17 10"/>
+          <path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/>
+        </svg>
+      </button>
+    </div>
+
+    <!-- 趋势摘要 -->
+    <div class="summary" id="summary">
+      <div class="summary-card">
+        <div class="summary-value" id="totalTodayStars">--</div>
+        <div class="summary-label">今日总 Star</div>
+      </div>
+      <div class="summary-card">
+        <div class="summary-value" id="topLanguage">--</div>
+        <div class="summary-label">最热语言</div>
+      </div>
+      <div class="summary-card">
+        <div class="summary-value" id="repoCount">--</div>
+        <div class="summary-label">上榜项目</div>
+      </div>
+    </div>
+
+    <!-- 榜单列表 -->
+    <main class="ranking-list" id="rankingList">
+      <!-- 加载骨架屏 -->
+      <div class="skeleton-card" id="skeleton">
+        <div class="skeleton-header">
+          <div class="skeleton-rank"></div>
+          <div class="skeleton-avatar"></div>
+          <div class="skeleton-info">
+            <div class="skeleton-title"></div>
+            <div class="skeleton-desc"></div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+      <p>
+        数据每日 09:00 (CST) 自动更新 ·
+        <a href="https://github.com/trending" target="_blank">数据来源: GitHub Trending</a>
+      </p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
