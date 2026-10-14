@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-14",
+  "updatedAt": "2026-10-14 09:25:11 CST",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "totalStars": 208440,
+      "todayStars": 54679,
+      "forks": 50956,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "rank": 2,
+      "repo": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "totalStars": 25731,
+      "todayStars": 4081,
+      "forks": 4033,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
+      "url": "https://github.com/storytold/artcraft"
+    },
+    {
+      "rank": 3,
+      "repo": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "totalStars": 55432,
+      "todayStars": 1961,
+      "forks": 10837,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+      "rank": 4,
+      "repo": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "totalStars": 54163,
+      "todayStars": 1815,
+      "forks": 3436,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "rank": 5,
+      "repo": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "totalStars": 63373,
+      "todayStars": 1748,
+      "forks": 7048,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "rank": 6,
+      "repo": "xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "totalStars": 9404,
+      "todayStars": 1198,
+      "forks": 399,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12706786?s=40&v=4",
+      "url": "https://github.com/xtool-org/xtool"
+    },
+    {
+      "rank": 7,
+      "repo": "lyogavin/airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "totalStars": 38351,
+      "todayStars": 1001,
+      "forks": 3921,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1113905?s=40&v=4",
+      "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+      "rank": 8,
+      "repo": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "totalStars": 28261,
+      "todayStars": 969,
+      "forks": 1995,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "rank": 9,
+      "repo": "vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "totalStars": 34528,
+      "todayStars": 190,
+      "forks": 2953,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32676955?s=40&v=4",
+      "url": "https://github.com/vercel-labs/skills"
+    }
+  ],
+  "languages": [
+    "HTML",
+    "JavaScript",
+    "Jupyter Notebook",
+    "Python",
+    "Rust",
+    "Swift",
+    "TypeScript"
+  ]
+}
