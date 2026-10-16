@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-16",
+  "updatedAt": "2026-10-16 09:23:46 CST",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "totalStars": 270861,
+      "todayStars": 32314,
+      "forks": 67997,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "rank": 2,
+      "repo": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "totalStars": 69142,
+      "todayStars": 3024,
+      "forks": 7567,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "rank": 3,
+      "repo": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "totalStars": 88784,
+      "todayStars": 1369,
+      "forks": 9904,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
+      "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+      "rank": 4,
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "totalStars": 50497,
+      "todayStars": 1091,
+      "forks": 4489,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "rank": 5,
+      "repo": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "totalStars": 280416,
+      "todayStars": 1013,
+      "forks": 41705,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "rank": 6,
+      "repo": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "totalStars": 29803,
+      "todayStars": 904,
+      "forks": 2083,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "rank": 7,
+      "repo": "xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "language": "Rust",
+      "totalStars": 5680,
+      "todayStars": 715,
+      "forks": 308,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/297525353?s=40&v=4",
+      "url": "https://github.com/xerj-org/xerj"
+    },
+    {
+      "rank": 8,
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "totalStars": 299913,
+      "todayStars": 582,
+      "forks": 26785,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 9,
+      "repo": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "totalStars": 112574,
+      "todayStars": 433,
+      "forks": 6521,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
+      "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+      "rank": 10,
+      "repo": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "totalStars": 39127,
+      "todayStars": 307,
+      "forks": 4325,
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    }
+  ],
+  "languages": [
+    "Go",
+    "Java",
+    "JavaScript",
+    "Python",
+    "Rust",
+    "Shell",
+    "TypeScript"
+  ]
+}
