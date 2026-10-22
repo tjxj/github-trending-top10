@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-22",
+  "updatedAt": "2026-10-22 09:25:46 CST",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "totalStars": 171681,
+      "todayStars": 2079,
+      "forks": 9341,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "rank": 2,
+      "repo": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "totalStars": 36560,
+      "todayStars": 2012,
+      "forks": 2282,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "rank": 3,
+      "repo": "stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "totalStars": 101310,
+      "todayStars": 1541,
+      "forks": 6406,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
+      "url": "https://github.com/stablyai/orca"
+    },
+    {
+      "rank": 4,
+      "repo": "Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "totalStars": 131669,
+      "todayStars": 1433,
+      "forks": 12640,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+      "url": "https://github.com/Graphify-Labs/graphify"
+    },
+    {
+      "rank": 5,
+      "repo": "Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "totalStars": 141538,
+      "todayStars": 939,
+      "forks": 16726,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/121283862?s=40&v=4",
+      "url": "https://github.com/Comfy-Org/ComfyUI"
+    },
+    {
+      "rank": 6,
+      "repo": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "totalStars": 42839,
+      "todayStars": 575,
+      "forks": 7071,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "rank": 7,
+      "repo": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "totalStars": 113023,
+      "todayStars": 504,
+      "forks": 16937,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
+      "url": "https://github.com/supabase/supabase"
+    },
+    {
+      "rank": 8,
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "totalStars": 77270,
+      "todayStars": 474,
+      "forks": 5992,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
+      "url": "https://github.com/headroomlabs-ai/headroom"
+    },
+    {
+      "rank": 9,
+      "repo": "vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "language": "Python",
+      "totalStars": 94887,
+      "todayStars": 441,
+      "forks": 23744,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44970335?s=40&v=4",
+      "url": "https://github.com/vllm-project/vllm"
+    },
+    {
+      "rank": 10,
+      "repo": "strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "language": "Go",
+      "totalStars": 2408,
+      "todayStars": 360,
+      "forks": 244,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10761735?s=40&v=4",
+      "url": "https://github.com/strelov1/freehire"
+    }
+  ],
+  "languages": [
+    "Go",
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ]
+}
