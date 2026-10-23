@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-23",
+  "updatedAt": "2026-10-23 09:29:27 CST",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "totalStars": 39630,
+      "todayStars": 2979,
+      "forks": 2470,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "rank": 2,
+      "repo": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "totalStars": 173531,
+      "todayStars": 1948,
+      "forks": 9443,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "rank": 3,
+      "repo": "Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "totalStars": 132984,
+      "todayStars": 1408,
+      "forks": 12725,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+      "url": "https://github.com/Graphify-Labs/graphify"
+    },
+    {
+      "rank": 4,
+      "repo": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "totalStars": 113497,
+      "todayStars": 693,
+      "forks": 17001,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
+      "url": "https://github.com/supabase/supabase"
+    },
+    {
+      "rank": 5,
+      "repo": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "totalStars": 31631,
+      "todayStars": 303,
+      "forks": 3534,
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "rank": 6,
+      "repo": "php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "totalStars": 41174,
+      "todayStars": 287,
+      "forks": 8315,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2510034?s=40&v=4",
+      "url": "https://github.com/php/php-src"
+    },
+    {
+      "rank": 7,
+      "repo": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "totalStars": 43246,
+      "todayStars": 177,
+      "forks": 5392,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3288457?s=40&v=4",
+      "url": "https://github.com/luongnv89/claude-howto"
+    },
+    {
+      "rank": 8,
+      "repo": "Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "totalStars": 8707,
+      "todayStars": 119,
+      "forks": 1203,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/40348278?s=40&v=4",
+      "url": "https://github.com/Meloong-Git/PCL"
+    },
+    {
+      "rank": 9,
+      "repo": "fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "totalStars": 103767,
+      "todayStars": 101,
+      "forks": 10089,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1326112?s=40&v=4",
+      "url": "https://github.com/fastapi/fastapi"
+    }
+  ],
+  "languages": [
+    "C",
+    "JavaScript",
+    "Python",
+    "TypeScript",
+    "Visual Basic .NET"
+  ]
+}
