@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-25",
+  "updatedAt": "2026-10-25 09:28:36 CST",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "totalStars": 44610,
+      "todayStars": 2264,
+      "forks": 2769,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "rank": 2,
+      "repo": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "totalStars": 19489,
+      "todayStars": 896,
+      "forks": 1932,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/385?s=40&v=4",
+      "url": "https://github.com/NVIDIA/OpenShell"
+    },
+    {
+      "rank": 3,
+      "repo": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "totalStars": 86437,
+      "todayStars": 619,
+      "forks": 5155,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "rank": 4,
+      "repo": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "totalStars": 4115,
+      "todayStars": 477,
+      "forks": 592,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125997726?s=40&v=4",
+      "url": "https://github.com/makecindy/cindy"
+    },
+    {
+      "rank": 5,
+      "repo": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "totalStars": 32177,
+      "todayStars": 455,
+      "forks": 1653,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
+      "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+      "rank": 6,
+      "repo": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "totalStars": 44575,
+      "todayStars": 392,
+      "forks": 5494,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3288457?s=40&v=4",
+      "url": "https://github.com/luongnv89/claude-howto"
+    },
+    {
+      "rank": 7,
+      "repo": "pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "totalStars": 11010,
+      "todayStars": 319,
+      "forks": 1415,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4290742?s=40&v=4",
+      "url": "https://github.com/pollen-robotics/microduck"
+    },
+    {
+      "rank": 8,
+      "repo": "jbiaojerry/ebook-treasure-chest",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "language": "Python",
+      "totalStars": 22630,
+      "todayStars": 227,
+      "forks": 3192,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6221683?s=40&v=4",
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest"
+    },
+    {
+      "rank": 9,
+      "repo": "google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "language": "TypeScript",
+      "totalStars": 108074,
+      "todayStars": 44,
+      "forks": 14808,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13950003?s=40&v=4",
+      "url": "https://github.com/google-gemini/gemini-cli"
+    },
+    {
+      "rank": 10,
+      "repo": "aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "totalStars": 3139,
+      "todayStars": 13,
+      "forks": 400,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25950814?s=40&v=4",
+      "url": "https://github.com/aws/agent-toolkit-for-aws"
+    }
+  ],
+  "languages": [
+    "CSS",
+    "JavaScript",
+    "Python",
+    "Rust",
+    "TypeScript"
+  ]
+}
