@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-27",
+  "updatedAt": "2026-10-27 09:31:44 CST",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "totalStars": 89317,
+      "todayStars": 2297,
+      "forks": 9852,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "rank": 2,
+      "repo": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "totalStars": 36421,
+      "todayStars": 2244,
+      "forks": 1898,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
+      "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+      "rank": 3,
+      "repo": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "totalStars": 89249,
+      "todayStars": 1506,
+      "forks": 5313,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "rank": 4,
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "totalStars": 116146,
+      "todayStars": 1395,
+      "forks": 22285,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "rank": 5,
+      "repo": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "totalStars": 6520,
+      "todayStars": 1296,
+      "forks": 796,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125997726?s=40&v=4",
+      "url": "https://github.com/makecindy/cindy"
+    },
+    {
+      "rank": 6,
+      "repo": "JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "totalStars": 2945,
+      "todayStars": 1173,
+      "forks": 157,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/177517595?s=40&v=4",
+      "url": "https://github.com/JetBrains/thinkrail"
+    },
+    {
+      "rank": 7,
+      "repo": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "totalStars": 289871,
+      "todayStars": 896,
+      "forks": 42952,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "rank": 8,
+      "repo": "pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "totalStars": 12435,
+      "todayStars": 843,
+      "forks": 1551,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4290742?s=40&v=4",
+      "url": "https://github.com/pollen-robotics/microduck"
+    },
+    {
+      "rank": 9,
+      "repo": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "totalStars": 103641,
+      "todayStars": 746,
+      "forks": 9189,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "rank": 10,
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "totalStars": 224672,
+      "todayStars": 638,
+      "forks": 22474,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    }
+  ],
+  "languages": [
+    "CSS",
+    "JavaScript",
+    "Python",
+    "Rust",
+    "TypeScript"
+  ]
+}
