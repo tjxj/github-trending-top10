@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-07",
+  "updatedAt": "2026-11-07 09:11:18 CST",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "totalStars": 64036,
+      "todayStars": 2548,
+      "forks": 4150,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "rank": 2,
+      "repo": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "totalStars": 316727,
+      "todayStars": 2070,
+      "forks": 26497,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "rank": 3,
+      "repo": "NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "totalStars": 9043,
+      "todayStars": 2015,
+      "forks": 727,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/263323607?s=40&v=4",
+      "url": "https://github.com/NVIDIA/auto-ontology"
+    },
+    {
+      "rank": 4,
+      "repo": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "totalStars": 22840,
+      "todayStars": 534,
+      "forks": 1920,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
+      "url": "https://github.com/google/skills"
+    },
+    {
+      "rank": 5,
+      "repo": "zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "totalStars": 93636,
+      "todayStars": 306,
+      "forks": 11499,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/482957?s=40&v=4",
+      "url": "https://github.com/zed-industries/zed"
+    },
+    {
+      "rank": 6,
+      "repo": "microsoft/vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "totalStars": 195024,
+      "todayStars": 301,
+      "forks": 44425,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/900690?s=40&v=4",
+      "url": "https://github.com/microsoft/vscode"
+    },
+    {
+      "rank": 7,
+      "repo": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "totalStars": 252258,
+      "todayStars": 248,
+      "forks": 51811,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63648?s=40&v=4",
+      "url": "https://github.com/react/react"
+    },
+    {
+      "rank": 8,
+      "repo": "rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "totalStars": 121453,
+      "todayStars": 192,
+      "forks": 17364,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3372342?s=40&v=4",
+      "url": "https://github.com/rust-lang/rust"
+    },
+    {
+      "rank": 9,
+      "repo": "astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "totalStars": 50695,
+      "todayStars": 169,
+      "forks": 2612,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
+      "url": "https://github.com/astral-sh/ruff"
+    },
+    {
+      "rank": 10,
+      "repo": "prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "totalStars": 67184,
+      "todayStars": 148,
+      "forks": 10988,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
+      "url": "https://github.com/prometheus/prometheus"
+    }
+  ],
+  "languages": [
+    "Go",
+    "JavaScript",
+    "Python",
+    "Rust",
+    "Shell",
+    "TypeScript"
+  ]
+}
