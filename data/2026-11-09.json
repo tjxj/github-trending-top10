@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-09",
+  "updatedAt": "2026-11-09 09:12:55 CST",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "totalStars": 103582,
+      "todayStars": 2373,
+      "forks": 12131,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "rank": 2,
+      "repo": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "totalStars": 18277,
+      "todayStars": 1439,
+      "forks": 2534,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
+      "url": "https://github.com/milind-soni/OpenMausBot"
+    },
+    {
+      "rank": 3,
+      "repo": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "totalStars": 16837,
+      "todayStars": 875,
+      "forks": 1322,
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "rank": 4,
+      "repo": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "totalStars": 47619,
+      "todayStars": 815,
+      "forks": 3258,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+      "rank": 5,
+      "repo": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "totalStars": 189666,
+      "todayStars": 792,
+      "forks": 22349,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "rank": 6,
+      "repo": "ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "totalStars": 5169,
+      "todayStars": 460,
+      "forks": 406,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
+      "url": "https://github.com/ranxianglei/billion-context"
+    },
+    {
+      "rank": 7,
+      "repo": "dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "Go",
+      "totalStars": 859,
+      "todayStars": 345,
+      "forks": 111,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23304?s=40&v=4",
+      "url": "https://github.com/dsx-ai-factory/nvke"
+    },
+    {
+      "rank": 8,
+      "repo": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "totalStars": 16426,
+      "todayStars": 41,
+      "forks": 1953,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6387526?s=40&v=4",
+      "url": "https://github.com/google-deepmind/mujoco"
+    },
+    {
+      "rank": 9,
+      "repo": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "totalStars": 19427,
+      "todayStars": 32,
+      "forks": 3280,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
+      "url": "https://github.com/anthropics/claude-quickstarts"
+    }
+  ],
+  "languages": [
+    "C++",
+    "Go",
+    "Python",
+    "Rust",
+    "TypeScript"
+  ]
+}
