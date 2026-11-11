@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-11",
+  "updatedAt": "2026-11-11 09:11:14 CST",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "totalStars": 22865,
+      "todayStars": 3108,
+      "forks": 1822,
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "rank": 2,
+      "repo": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "totalStars": 108995,
+      "todayStars": 2393,
+      "forks": 12662,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "rank": 3,
+      "repo": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "totalStars": 192344,
+      "todayStars": 1679,
+      "forks": 22649,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "rank": 4,
+      "repo": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "totalStars": 320938,
+      "todayStars": 1225,
+      "forks": 26908,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "rank": 5,
+      "repo": "homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "totalStars": 6673,
+      "todayStars": 790,
+      "forks": 430,
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+      "url": "https://github.com/homeassistant-ai/ha-mcp"
+    },
+    {
+      "rank": 6,
+      "repo": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "totalStars": 49225,
+      "todayStars": 780,
+      "forks": 3451,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+      "rank": 7,
+      "repo": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "totalStars": 20503,
+      "todayStars": 531,
+      "forks": 3470,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
+      "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+      "rank": 8,
+      "repo": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "totalStars": 115176,
+      "todayStars": 465,
+      "forks": 12097,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "rank": 9,
+      "repo": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "totalStars": 17358,
+      "todayStars": 456,
+      "forks": 2148,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6387526?s=40&v=4",
+      "url": "https://github.com/google-deepmind/mujoco"
+    },
+    {
+      "rank": 10,
+      "repo": "ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "totalStars": 6317,
+      "todayStars": 375,
+      "forks": 528,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
+      "url": "https://github.com/ranxianglei/billion-context"
+    }
+  ],
+  "languages": [
+    "C++",
+    "JavaScript",
+    "Python",
+    "Rust",
+    "Shell",
+    "TypeScript"
+  ]
+}
