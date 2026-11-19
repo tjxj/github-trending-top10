@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-19",
+  "updatedAt": "2026-11-19 09:11:16 CST",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "language": "Python",
+      "totalStars": 4294,
+      "todayStars": 1524,
+      "forks": 533,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34639474?s=40&v=4",
+      "url": "https://github.com/google-research/paper-orchestra"
+    },
+    {
+      "rank": 2,
+      "repo": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "totalStars": 306521,
+      "todayStars": 1108,
+      "forks": 45124,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "rank": 3,
+      "repo": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "totalStars": 70020,
+      "todayStars": 1059,
+      "forks": 6243,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "rank": 4,
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "totalStars": 321327,
+      "todayStars": 822,
+      "forks": 28556,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 5,
+      "repo": "sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "totalStars": 89620,
+      "todayStars": 692,
+      "forks": 6207,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1162160?s=40&v=4",
+      "url": "https://github.com/sveltejs/svelte"
+    },
+    {
+      "rank": 6,
+      "repo": "getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "language": "Go",
+      "totalStars": 9808,
+      "todayStars": 547,
+      "forks": 562,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25576967?s=40&v=4",
+      "url": "https://github.com/getarcaneapp/arcane"
+    },
+    {
+      "rank": 7,
+      "repo": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "totalStars": 59749,
+      "todayStars": 389,
+      "forks": 5429,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "rank": 8,
+      "repo": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "totalStars": 10406,
+      "todayStars": 365,
+      "forks": 1367,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "rank": 9,
+      "repo": "n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "totalStars": 211077,
+      "todayStars": 325,
+      "forks": 61568,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6249596?s=40&v=4",
+      "url": "https://github.com/n8n-io/n8n"
+    },
+    {
+      "rank": 10,
+      "repo": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "totalStars": 17206,
+      "todayStars": 314,
+      "forks": 1896,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+      "url": "https://github.com/cursor/plugins"
+    }
+  ],
+  "languages": [
+    "Go",
+    "JavaScript",
+    "Python",
+    "Shell",
+    "TypeScript"
+  ]
+}
