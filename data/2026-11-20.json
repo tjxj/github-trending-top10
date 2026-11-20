@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-20",
+  "updatedAt": "2026-11-20 09:11:31 CST",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "totalStars": 322087,
+      "todayStars": 2028,
+      "forks": 28630,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 2,
+      "repo": "elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "language": "Python",
+      "totalStars": 12548,
+      "todayStars": 1349,
+      "forks": 1590,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "rank": 3,
+      "repo": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "totalStars": 70804,
+      "todayStars": 954,
+      "forks": 6309,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "rank": 4,
+      "repo": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "totalStars": 60568,
+      "todayStars": 898,
+      "forks": 5495,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "rank": 5,
+      "repo": "firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "language": "TypeScript",
+      "totalStars": 204240,
+      "todayStars": 825,
+      "forks": 10702,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20311743?s=40&v=4",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "rank": 6,
+      "repo": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "totalStars": 17566,
+      "todayStars": 384,
+      "forks": 1931,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "rank": 7,
+      "repo": "mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "language": "Shell",
+      "totalStars": 1849,
+      "todayStars": 377,
+      "forks": 126,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34001140?s=40&v=4",
+      "url": "https://github.com/mjmirza/app-store-compliance"
+    },
+    {
+      "rank": 8,
+      "repo": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "language": "Python",
+      "totalStars": 12730,
+      "todayStars": 341,
+      "forks": 794,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87308195?s=40&v=4",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+    },
+    {
+      "rank": 9,
+      "repo": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "totalStars": 10722,
+      "todayStars": 302,
+      "forks": 1387,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "rank": 10,
+      "repo": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "totalStars": 68636,
+      "todayStars": 271,
+      "forks": 4616,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    }
+  ],
+  "languages": [
+    "HTML",
+    "Python",
+    "Shell",
+    "TypeScript"
+  ]
+}
