@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-22",
+  "updatedAt": "2026-11-22 09:11:30 CST",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "language": "Python",
+      "totalStars": 16081,
+      "todayStars": 1803,
+      "forks": 1831,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "rank": 2,
+      "repo": "firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "language": "TypeScript",
+      "totalStars": 206217,
+      "todayStars": 1006,
+      "forks": 10782,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20311743?s=40&v=4",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "rank": 3,
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "totalStars": 323736,
+      "todayStars": 883,
+      "forks": 28715,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 4,
+      "repo": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "language": "Python",
+      "totalStars": 14457,
+      "todayStars": 779,
+      "forks": 876,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87308195?s=40&v=4",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+    },
+    {
+      "rank": 5,
+      "repo": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "totalStars": 62082,
+      "todayStars": 769,
+      "forks": 5633,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "rank": 6,
+      "repo": "mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "language": "Shell",
+      "totalStars": 3403,
+      "todayStars": 720,
+      "forks": 214,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34001140?s=40&v=4",
+      "url": "https://github.com/mjmirza/app-store-compliance"
+    },
+    {
+      "rank": 7,
+      "repo": "zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "language": "Python",
+      "totalStars": 12868,
+      "todayStars": 683,
+      "forks": 2075,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/78066887?s=40&v=4",
+      "url": "https://github.com/zhouxiaoka/autoclip"
+    },
+    {
+      "rank": 8,
+      "repo": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "totalStars": 69816,
+      "todayStars": 583,
+      "forks": 4685,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "rank": 9,
+      "repo": "toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "language": "TypeScript",
+      "totalStars": 76311,
+      "todayStars": 574,
+      "forks": 5595,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25152247?s=40&v=4",
+      "url": "https://github.com/toeverything/AFFiNE"
+    },
+    {
+      "rank": 10,
+      "repo": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "totalStars": 72011,
+      "todayStars": 560,
+      "forks": 6375,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    }
+  ],
+  "languages": [
+    "HTML",
+    "Python",
+    "Shell",
+    "TypeScript"
+  ]
+}
