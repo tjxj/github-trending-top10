@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-28",
+  "updatedAt": "2026-11-28 09:11:30 CST",
+  "items": [
+    {
+      "rank": 1,
+      "repo": "elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "language": "Python",
+      "totalStars": 26109,
+      "todayStars": 1608,
+      "forks": 2688,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "rank": 2,
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "totalStars": 328323,
+      "todayStars": 922,
+      "forks": 29184,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "rank": 3,
+      "repo": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "language": "Python",
+      "totalStars": 19854,
+      "todayStars": 836,
+      "forks": 1259,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87308195?s=40&v=4",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+    },
+    {
+      "rank": 4,
+      "repo": "firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "language": "TypeScript",
+      "totalStars": 211691,
+      "todayStars": 822,
+      "forks": 11144,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20311743?s=40&v=4",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "rank": 5,
+      "repo": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "totalStars": 74468,
+      "todayStars": 725,
+      "forks": 5027,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "rank": 6,
+      "repo": "zhouxiaoka/autoclip",
+      "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+      "language": "Python",
+      "totalStars": 17596,
+      "todayStars": 718,
+      "forks": 2494,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/78066887?s=40&v=4",
+      "url": "https://github.com/zhouxiaoka/autoclip"
+    },
+    {
+      "rank": 7,
+      "repo": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "totalStars": 76376,
+      "todayStars": 675,
+      "forks": 6795,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "rank": 8,
+      "repo": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "totalStars": 67013,
+      "todayStars": 666,
+      "forks": 6166,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "rank": 9,
+      "repo": "jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "language": "Python",
+      "totalStars": 72215,
+      "todayStars": 660,
+      "forks": 9442,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62287848?s=40&v=4",
+      "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+      "rank": 10,
+      "repo": "mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "language": "Shell",
+      "totalStars": 7919,
+      "todayStars": 530,
+      "forks": 597,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34001140?s=40&v=4",
+      "url": "https://github.com/mjmirza/app-store-compliance"
+    }
+  ],
+  "languages": [
+    "HTML",
+    "Python",
+    "Shell",
+    "TypeScript"
+  ]
+}
